@@ -62,7 +62,7 @@ HOW IT WORKS (THE PIPELINE)
 INSTALLATION & SETUP
 --------------------
 1. Clone the Repository:
-   git clone https://github.com/usama3317-usa/PhishX-Explainable-AI-URL-Detection
+   https://github.com/usama3317-usa/PhishX-Explainable-AI-URL-Detection.git
    cd PhishX-Explainable-AI-URL-Detection
 
 2. Install Dependencies:
