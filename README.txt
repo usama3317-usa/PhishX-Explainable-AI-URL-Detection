@@ -21,7 +21,7 @@ to know the reasoning behind a blocked link.
 
 PhishX solves this by providing a highly accurate machine learning 
 model that explains its own decisions mathematically using SHAP.
-Read our complete research and methodology: [https://drive.google.com/file/d/1S7AebcLwZbw0k5zgRc335a9sP3DcUJWR/view?usp=sharing](PhishX_Research_Report.pdf)
+Read our complete research and methodology: [https://drive.google.com/file/d/1S7AebcLwZbw0k5zgRc335a9sP3DcUJWR/view?usp=sharing]  (PhishX_Research_Report.pdf)
 KEY FEATURES
 ------------
 * Advanced ML Engine: A highly tuned Gradient Boosting classifier 
